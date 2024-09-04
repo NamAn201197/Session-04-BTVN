@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #333;
+  padding: 10px;
+  color: white;
+  background-image: url(./wallpapersden.com_landscape-pixel-art_1920x1080.jpg);
+  background-size: cover;
+  background-position: top;
+}
+
+.logo {
+  font-size: 33px;
+  font-weight: bold;
+  margin-right: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: linear-gradient(to right, violet, pink, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.search {
+  padding: 5px;
+  font-size: 16px;
+  width: 250px;
+  margin-right: 20px;
+  border-radius: 15px;
+  border: 0;
+  letter-spacing: 0.5px;
+  font-size: 13px;
+  background-color: whitesmoke;
+}
+
+.button {
+  border-radius: 50px;
+  padding: 5px 10px;
+  border: 0;
+  background-color: white;
+  letter-spacing: 1.3px;
+  font-size: 13px;
+  position: ;
+}
+
+.img {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.chapter {
+  margin-bottom: 30px;
+}
+.chapter-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #555;
+}
+.content {
+  text-align: justify;
+}
+.navigation {
+  text-align: center;
+  margin-top: 20px;
+}
+.navigation a {
+  text-decoration: none;
+  color: #0066cc;
+  padding: 10px 20px;
+  background-color: #e6e6e6;
+  border-radius: 5px;
+}
+.navigation a:hover {
+  background-color: #d4d4d4;
+}
