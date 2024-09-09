@@ -1,0 +1,29 @@
+.header {
+  text-align: center;
+  text-indent: 0px;
+}
+.main {
+  background-color: bisque;
+}
+.p1 {
+  color: purple;
+}
+.p2 {
+  background-color: aquamarine;
+}
+.p3 {
+  text-align: center;
+  text-indent: 111px;
+}
+.p4 {
+  color: red;
+  text-align: justify;
+}
+.bold-black {
+  font-weight: bold;
+  color: black;
+}
+.underline-blue {
+  text-decoration: underline blue;
+  color: blue;
+}
